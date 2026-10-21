@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "WYN_Nav_Street_Flutter_v65_2_GitHub_Improved.zip"
+      - "wyn/WYN_Nav_Street_Flutter_v65_2_GitHub_Improved.zip"
 
 permissions:
   contents: write
